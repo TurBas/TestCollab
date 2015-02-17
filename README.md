@@ -1,2 +1,2 @@
 # TestCollab
-Repository for testing the GitHub collaboration workflow etc.
+Repository for tetsing the GitHub collaboration workflow etc.
